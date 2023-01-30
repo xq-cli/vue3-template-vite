@@ -1,6 +1,6 @@
 {
-  "name":"vue3-template-vite",
-  "private":false,
+"name":"<%=projectName%>",
+"private":"<%=private%>",
   "version": "0.0.0",
   "author":"<%=author%>",
   "description": "<%=description%>",

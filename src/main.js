@@ -13,5 +13,3 @@ app.use(ElementPlus);
 app.use(router);
 
 app.mount("#app");
-//"name":"<%=projectName%>",
-//"private":"<%=private%>",
